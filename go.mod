@@ -1,6 +1,6 @@
 module github.com/ssych/go-tls-migrate
 
-go 1.22
+go 1.19
 
 require (
 	github.com/ClickHouse/clickhouse-go v1.5.4
